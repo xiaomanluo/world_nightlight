@@ -1,0 +1,23 @@
+final_project.html is the report submitted, which includes the main text and the necessary code for visualization.
+
+All other files are included in code&data/, including:
+
+(1) final_project_Code.ipynb: the full ipython notebook that includes all code and texts;
+
+(2) final_project.ipynb: the ipython notebook that generates final_project.html;
+
+(3) nightlight.xlsx: the night light data set from the paper Night-time lights: A global, long term look at links to socio-economic trends;
+
+(4) Country.csv: from Kaggle https://www.kaggle.com/worldbank/world-development-indicators#Country.csv;
+
+(5) wb_selected_indicators.csv: list of variables to scrape from World Bank;
+
+(6) extdata.csv: extra variables obtained using World Bank API calls;
+
+(7）dat_lag.csv, all_merged.csv: intermediate outputs;
+
+(8) XXX_imp.csv: variable importance (for different subgroups); 
+
+(9) TM_WORLD_XXX: world administrative map;
+
+

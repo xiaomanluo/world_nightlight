@@ -1,0 +1,45 @@
+IndicatorCode,IndicatorName,ShortName
+AG.AGR.TRAC.NO,"Agricultural machinery, tractors",Agricultural machinery
+AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),Fertilizer consumption
+AG.LND.AGRI.K2,Agricultural land (sq. km),Agricultural land area
+AG.LND.FRST.K2,Forest area (sq. km),Forest area
+AG.LND.TOTL.K2,Land area (sq. km),Land area
+AG.PRD.CROP.XD,Crop production index (2004-2006 = 100),Crop production index
+AG.PRD.FOOD.XD,Food production index (2004-2006 = 100),Food production index
+AG.PRD.LVSK.XD,Livestock production index (2004-2006 = 100),Livestock production index
+AG.SRF.TOTL.K2,Surface area (sq. km),Surface area
+EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/dollar2011 PPP GDP),Energy intensity level
+EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),Combustible renewables and waste
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Energy use
+EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",PM2.5 air pollution
+SE.ADT.1524.LT.ZS,"Youth literacy rate, population 15-24 years, both sexes (%)",Youth literacy rate
+SE.ADT.LITR.ZS,"Adult literacy rate, population 15+ years, both sexes (%)",Adult literacy rate
+SE.ENR.PRIM.FM.ZS,"Gross enrolment ratio, primary, gender parity index (GPI)",Gender parity index (GPI)
+SE.PRM.CMPT.ZS,"Primary completion rate, both sexes (%)",Primary completion rate
+SE.PRM.DURS,Theoretical duration of primary education (years),Duration of primary education
+SE.PRM.ENRL,"Enrolment in primary education, both sexes (number)",Enrolment in primary education
+SE.PRM.ENRR,"Gross enrolment ratio, primary, both sexes (%)",Gross enrollment ratio
+SE.PRM.PRS5.ZS,"Survival rate to Grade 5 of primary education, both sexes (%)",Survival rate to Grade 5
+SE.PRM.UNER,"Out-of-school children of primary school age, both sexes (number)",Out-of-school children
+SE.XPD.PRIM.PC.ZS,Government expenditure per primary student as % of GDP per capita (%),Government expenditure
+SH.H2O.SAFE.ZS,Improved water source (% of population with access),Improved water source
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",Hospital beds
+SH.MED.NUMW.P3,"Nurses and midwives (per 1,000 people)",Nurses and midwives
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",Physicians
+SH.MMR.DTHS,Number of maternal deaths,Number of maternal deaths
+SH.STA.ACSN,Improved sanitation facilities (% of population with access),Improved sanitation facilities
+SH.STA.BRTW.ZS,Low-birthweight babies (% of births),Low-birthweight babies
+SH.XPD.OOPC.TO.ZS,Out-of-pocket health expenditure (% of total expenditure on health),Out-of-pocket health expenditure
+SH.XPD.PCAP,Health expenditure per capita (current USdollar),Health expenditure per capita
+SL.EMP.1524.SP.NE.ZS,"Employment to population ratio, ages 15-24, total (%) (national estimate)",Employment to population ratio
+SL.EMP.VULN.ZS,"Vulnerable employment, total (% of total employment)",Vulnerable employment
+SL.FAM.WORK.ZS,"Contributing family workers, total (% of total employed)",Contributing family workers
+SL.IND.EMPL.ZS,Employment in industry (% of total employment),Employment in industry
+SL.TLF.ACTI.1524.NE.ZS,"Labor force participation rate for ages 15-24, total (%) (national estimate)",Labor force participation rate for youth
+SM.POP.REFG,Refugee population by country or territory of asylum,Refugee population (asylum)
+SM.POP.REFG.OR,Refugee population by country or territory of origin,Refugee population (origin)
+SP.ADO.TFRT,"Adolescent fertility rate (births per 1,000 women ages 15-19)",Adolescent fertility rate
+SP.DYN.CBRT.IN,"Birth rate, crude (per 1,000 people)",Birth rate
+SP.DYN.CDRT.IN,"Death rate, crude (per 1,000 people)",Death rate
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",Life expectancy
+VC.IHR.PSRC.P5,"Intentional homicides (per 100,000 people)",Intentional homicides

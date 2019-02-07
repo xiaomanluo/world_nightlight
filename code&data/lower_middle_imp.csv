@@ -1,0 +1,98 @@
+,imp,pvals,var
+0,-0.004355486981110157,1.0,Latitude
+1,0.00020931363735200714,0.4,Longitude
+2,0.008579950729985311,0.0,Area Lit_diff
+3,0.00023618334802237573,0.48,Area Lit_diff_2
+4,0.016169676116804407,0.0,Area Lit_diff_3
+5,0.03845963326279905,0.0,Area Lit_diff_4
+6,0.004429046821535651,0.02,Electricity Consumption_diff
+7,-0.0011707246442797664,0.76,Electricity Consumption_diff_2
+8,5.245517469859573e-05,0.54,Electricity Consumption_diff_3
+9,-0.0026035886146911214,0.88,Electricity Consumption_diff_4
+10,-0.0033269503330645434,0.96,CO2 Emissions_diff
+11,0.0006333798618783915,0.34,CO2 Emissions_diff_2
+12,-0.0006734818952029431,0.54,CO2 Emissions_diff_3
+13,0.00016142020040109395,0.46,CO2 Emissions_diff_4
+14,-0.00652302759561145,1.0,GDP_diff_2
+15,0.0011620069046476972,0.18,GDP_diff_3
+16,0.0014758731724026641,0.24,GDP_diff_4
+17,-4.107284848822723e-05,0.52,Population_diff
+18,0.0006155307696986967,0.4,Population_diff_2
+19,-0.0010181217441391638,0.66,Population_diff_3
+20,-0.0018615775177016902,0.76,Population_diff_4
+21,0.00017717360106987712,0.4,Agricultural land area_diff
+22,-0.0007651269001364147,0.62,Agricultural land area_diff_2
+23,-0.00038495236972557745,0.56,Agricultural land area_diff_3
+24,0.005232166637014493,0.02,Agricultural land area_diff_4
+25,-7.291608552929818e-05,0.5,Forest area_diff
+26,0.00011907193288973605,0.4,Forest area_diff_2
+27,0.0010305562124529183,0.24,Forest area_diff_3
+28,-8.042284633724694e-05,0.42,Forest area_diff_4
+29,0.00028299710855488047,0.2,Land area_diff
+30,0.00013851049983454322,0.3,Land area_diff_2
+31,0.0003167208269276023,0.26,Land area_diff_3
+32,0.0001017665512601379,0.44,Land area_diff_4
+33,-0.001034900383024312,0.76,Crop production index_diff
+34,0.001684947518143215,0.18,Crop production index_diff_2
+35,-0.001924947646351663,0.82,Crop production index_diff_3
+36,-0.000549113611935409,0.58,Crop production index_diff_4
+37,-0.0017390966842853323,0.72,Food production index_diff
+38,-0.0009871741537821332,0.6,Food production index_diff_2
+39,-0.001390925405924462,0.8,Food production index_diff_3
+40,-0.001747952090852739,0.86,Food production index_diff_4
+41,0.0007683851975844591,0.32,Livestock production index_diff
+42,-0.0024537681618658214,0.92,Livestock production index_diff_2
+43,-0.0013377575672960662,0.7,Livestock production index_diff_3
+44,0.00013440107312891192,0.42,Livestock production index_diff_4
+45,0.00028653489448049463,0.3,Surface area_diff
+46,0.00013391251814613703,0.36,Surface area_diff_2
+47,0.00010024974205496973,0.4,Surface area_diff_3
+48,0.00014999746059322916,0.34,Surface area_diff_4
+49,0.009783594229344578,0.02,Energy intensity level_diff
+50,-0.0018195566891839737,0.86,Energy intensity level_diff_2
+51,-0.0014594544177752716,0.74,Energy intensity level_diff_3
+52,-0.003924390131052627,0.98,Energy intensity level_diff_4
+53,1.7023389934228694e-06,0.48,Duration of primary education_diff
+54,-3.90064656632938e-05,0.56,Duration of primary education_diff_2
+55,-8.126992907936392e-05,0.64,Duration of primary education_diff_3
+56,5.056544405443453e-05,0.5,Duration of primary education_diff_4
+57,0.0011275057682576667,0.14,Number of maternal deaths_diff
+58,0.0015705932824996022,0.14,Number of maternal deaths_diff_2
+59,-0.002053489888609747,0.96,Number of maternal deaths_diff_3
+60,-0.00033460084464827233,0.58,Number of maternal deaths_diff_4
+61,0.0003281940838340408,0.46,Improved sanitation facilities_diff
+62,-0.0005310507688035537,0.76,Improved sanitation facilities_diff_2
+63,0.00016331105957148595,0.44,Improved sanitation facilities_diff_3
+64,-0.00043290327380604565,0.66,Improved sanitation facilities_diff_4
+65,0.0011729189733549056,0.26,Vulnerable employment_diff
+66,0.002972951350169964,0.08,Vulnerable employment_diff_2
+67,-0.0002897402906871793,0.5,Vulnerable employment_diff_3
+68,0.0022096229773629905,0.06,Vulnerable employment_diff_4
+69,0.0025597010203138176,0.1,Contributing family workers_diff
+70,0.0009961428879687317,0.24,Contributing family workers_diff_2
+71,-0.0016126946760355032,0.74,Contributing family workers_diff_3
+72,-0.0014868027346204848,0.8,Contributing family workers_diff_4
+73,0.008099775183539187,0.0,Employment in industry_diff
+74,-0.0009272854976844908,0.64,Employment in industry_diff_2
+75,0.0017743472179549136,0.16,Employment in industry_diff_3
+76,-0.0016615676248107614,0.82,Employment in industry_diff_4
+77,-0.0003980318770090696,0.66,Refugee population (origin)_diff
+78,0.0008672484533777114,0.36,Refugee population (origin)_diff_2
+79,0.0020636588280998625,0.22,Refugee population (origin)_diff_3
+80,-0.001366172999306997,0.84,Refugee population (origin)_diff_4
+81,-0.002886816594255631,0.96,Adolescent fertility rate_diff
+82,-0.0002726547308062738,0.58,Adolescent fertility rate_diff_2
+83,-0.0002965283600240981,0.58,Adolescent fertility rate_diff_3
+84,0.0009144780809290237,0.3,Adolescent fertility rate_diff_4
+85,0.00027167596425969887,0.4,Birth rate_diff
+86,0.0015171183138270594,0.18,Birth rate_diff_2
+87,0.0003633479790513261,0.4,Birth rate_diff_3
+88,-0.002298167275063434,0.84,Birth rate_diff_4
+89,0.0012729250270394898,0.24,Death rate_diff
+90,-0.004269949158854758,0.98,Death rate_diff_2
+91,-0.0033509466612939437,0.96,Death rate_diff_3
+92,-0.00380429679808153,0.96,Death rate_diff_4
+93,-0.0029416334662420995,0.9,Life expectancy_diff
+94,-0.00010229125428286301,0.52,Life expectancy_diff_2
+95,0.0007986742737525476,0.34,Life expectancy_diff_3
+96,-3.871621868425934e-05,0.44,Life expectancy_diff_4
